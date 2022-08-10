@@ -1,0 +1,37 @@
+@import "null.css";
+.menu{
+	color:gold;
+}
+div.block1{
+	color:aquamarine;
+}
+#h1{
+	color:blueviolet;
+}
+h2{
+	color:deeppink;
+}
+div.block2 p{
+	color:darkmagenta;
+}
+div.block2 h3{
+	color:greenyellow;
+}
+p.text{
+	color:tomato;
+}
+p.text.tex{
+	color:blue;
+}
+p.text.tex.te{
+	color:darkslategrey;
+}
+p.text.tex.te.t{
+	color:violet;
+}
+div.block4 p{
+	color:lightcoral;
+}
+span{
+	color:palevioletred;
+}
